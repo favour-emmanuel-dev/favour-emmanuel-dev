@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **favour-emmanuel-dev/favour-emmanuel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -68,10 +66,7 @@ Some of the projects I have worked on include:
 
 - **CampusCare** — Digital campus management platform
 - **SecureStock** — Secure transaction and inventory management system
-- **Swilot Travels** — Travel and immigration website
 - **Library Management System** — Web-based library management project
-- **HairbyLisa** — Business website project
-- **Car Dealer** — Automotive business website
 
 ## 🌱 Currently Learning
 
