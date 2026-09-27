@@ -89,6 +89,6 @@ Some of the projects I have worked on include:
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](linkedin.com/in/favour-emmanuel-dev)
+- 💼 [LinkedIn](https://linkedin.com/in/favour-emmanuel-dev)
 - 🌐 [Portfolio]...
 - 📧 codingwitheseosa@gmail.com
